@@ -19,3 +19,7 @@ Para su desarrollo utilicé la combinación de tecnologías **MERN (MongoDB, Exp
 * **Autenticación y autorización:**  
   Implementé un sistema de autenticación basado en tokens utilizando JSON Web Tokens (JWT). 
   Esto asegura que solo los usuarios autenticados puedan acceder y modificar sus eventos en el calendario.
+
+## Imagenes de muestra:
+![ingreso-registro-calender](https://github.com/lucianolabudia/calendar-app/assets/59026280/6f0adef6-77d1-4f90-a5f4-330bb33f5f1a)
+![ej-calender](https://github.com/lucianolabudia/calendar-app/assets/59026280/ebbf47df-40a8-422b-aac2-de9ec2432f25)
